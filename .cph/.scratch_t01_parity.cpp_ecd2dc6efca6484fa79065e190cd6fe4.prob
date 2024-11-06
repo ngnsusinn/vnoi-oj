@@ -1,0 +1,1 @@
+{"name":"Local: scratch_t01_parity","url":"d:\\code\\vnoi\\scratch_t01_parity.cpp","tests":[{"id":1730874904462,"input":"2","output":"YES"},{"id":1730874911009,"input":"3","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\vnoi\\scratch_t01_parity.cpp","group":"local","local":true}

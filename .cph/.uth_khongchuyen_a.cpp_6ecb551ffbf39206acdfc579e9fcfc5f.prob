@@ -1,0 +1,1 @@
+{"name":"Local: uth_khongchuyen_a","url":"d:\\code\\vnoi\\uth_khongchuyen_a.cpp","tests":[{"id":1730779998466,"input":"4\nOLP\nolp\nolz\nOkP","output":"YES\nYES\nNO\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\vnoi\\uth_khongchuyen_a.cpp","group":"local","local":true}

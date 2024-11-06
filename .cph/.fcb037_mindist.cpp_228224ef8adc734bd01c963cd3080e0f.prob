@@ -1,0 +1,1 @@
+{"name":"Local: fcb037_mindist","url":"d:\\code\\vnoi\\fcb037_mindist.cpp","tests":[{"id":1730876293997,"input":"6\n7 1 3 4 1 7","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\vnoi\\fcb037_mindist.cpp","group":"local","local":true}

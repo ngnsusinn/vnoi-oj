@@ -1,0 +1,1 @@
+{"name":"Local: uth_chuyen_d","url":"d:\\code\\vnoi\\uth_chuyen_d.cpp","tests":[{"id":1730803605604,"input":"5\nRRLRL","output":"0 1 2 1 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\vnoi\\uth_chuyen_d.cpp","group":"local","local":true}

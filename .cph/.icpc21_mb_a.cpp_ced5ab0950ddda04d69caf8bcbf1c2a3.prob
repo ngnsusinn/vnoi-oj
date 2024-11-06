@@ -1,0 +1,1 @@
+{"name":"Local: icpc21_mb_a","url":"d:\\code\\vnoi\\icpc21_mb_a.cpp","tests":[{"id":1730874535362,"input":"abc.pY","output":"yes"},{"id":1730874542318,"input":"abc.bin","output":"no"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\vnoi\\icpc21_mb_a.cpp","group":"local","local":true}

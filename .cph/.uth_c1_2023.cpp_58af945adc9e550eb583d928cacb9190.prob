@@ -1,0 +1,1 @@
+{"name":"Local: uth_c1_2023","url":"d:\\code\\vnoi\\uth_c1_2023.cpp","tests":[{"id":1730789979743,"input":"2\n5 May\n30 Jul","output":"Taurus\nLeo"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\vnoi\\uth_c1_2023.cpp","group":"local","local":true}

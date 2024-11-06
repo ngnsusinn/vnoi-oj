@@ -1,0 +1,1 @@
+{"name":"Local: olp_kc20_buildcol","url":"d:\\code\\vnoi\\olp_kc20_buildcol.cpp","tests":[{"id":1730764971643,"input":"7 4\n4 1 3 2 5 1 6","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\vnoi\\olp_kc20_buildcol.cpp","group":"local","local":true}

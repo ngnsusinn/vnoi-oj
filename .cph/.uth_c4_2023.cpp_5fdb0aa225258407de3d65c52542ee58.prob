@@ -1,0 +1,1 @@
+{"name":"Local: uth_c4_2023","url":"d:\\code\\vnoi\\uth_c4_2023.cpp","tests":[{"id":1730805411695,"input":"1\n1 1\n01000010\n5 1\n01101110","output":"2 6"},{"id":1730812601771,"input":"","output":""},{"id":1730812606426,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\vnoi\\uth_c4_2023.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: olp_kc19_cow","url":"d:\\code\\vnoi\\olp_kc19_cow.cpp","tests":[{"id":1730577131674,"input":"1 0 0\n0 9 3","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\vnoi\\olp_kc19_cow.cpp","group":"local","local":true}

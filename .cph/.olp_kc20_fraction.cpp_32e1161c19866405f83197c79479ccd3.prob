@@ -1,0 +1,1 @@
+{"name":"Local: olp_kc20_fraction","url":"d:\\code\\vnoi\\olp_kc20_fraction.cpp","tests":[{"id":1730610771017,"input":"1\n1 3 10","output":"repeating\nfinite\nfinite\nrepeating"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\vnoi\\olp_kc20_fraction.cpp","group":"local","local":true}
